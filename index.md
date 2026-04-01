@@ -20,11 +20,11 @@ _AI Research Intern_
 ```
 print("hello world")
 ```
--Top 3 Languages: 
+- Top 3 Languages: 
 1. Python
 2. Java
 3. C++
--AI/ML & LLM Tools: [Cursor, Claude Code; PyTorch, TensorFlow, Hugging Face, Scikit-learn; LLM evaluation, NLP](#jeeves-inc)
+- AI/ML & LLM Tools: [Cursor, Claude Code; PyTorch, TensorFlow, Hugging Face, Scikit-learn; LLM evaluation, NLP](#jeeves-inc)
 
 ## Tasks
 - [x] Create a webpage
