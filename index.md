@@ -3,7 +3,7 @@
 [Portrait](arav_composite.jpeg)
 ## Education
 **UC San Diego** (2023-2026)
-_Bachelor of Science in Mathematics– Computer Science_
+_Bachelor of Science in Mathematics– Computer Science_\
 Relevant Coursework:
 >  Data Structures & Algorithms, Object-Oriented Programming, Machine Learning, Systems
 Programming, Operating Systems, Computer Architecture, Theory of Computation, Statistics
@@ -13,7 +13,8 @@ Programming, Operating Systems, Computer Architecture, Theory of Computation, St
 (July 2025– September 2025)
 _AI Engineering Intern_
 
-**iZen Academy** (June 2023– September 2023)
+###iZen Academy 
+(June 2023– September 2023)
 _AI Research Intern_
 
 ## Skills
