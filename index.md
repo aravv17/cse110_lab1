@@ -29,5 +29,5 @@ print("hello world")
 
 ## Tasks
 - [x] Create a webpage
-- [ ] Publish webpage
+- [x] Publish webpage
 - [ ] Polish it so that it looks nice
