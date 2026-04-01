@@ -13,7 +13,7 @@ Programming, Operating Systems, Computer Architecture, Theory of Computation, St
 (July 2025– September 2025)
 _AI Engineering Intern_
 
-###iZen Academy 
+### iZen Academy 
 (June 2023– September 2023)
 _AI Research Intern_
 
